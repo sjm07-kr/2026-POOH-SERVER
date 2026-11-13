@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: POOH RP 푸우서버
+  structure:
+    - type: space
+      key: pooh-rp-guide
+      title: 푸우서버 가이드
+      path: guide
+      default: true
+      content:
+        directory: ./
